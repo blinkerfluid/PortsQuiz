@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Network Ports Quiz</string>
+    <string name="title">Network Ports Quiz</string>
+    <string name="intro">Knowledge of well known port numbers is essential for anyone that deals with computer networks. Test your skills below!</string>
+    <string name="question_1">1. Which port is used for SMTP?</string>
+    <string name="question_2">2. Which port is used for Telnet?</string>
+    <string name="question_3">3. Port 80 is used for which protocol?</string>
+    <string name="question_4">4. Which ports are used by FTP?</string>
+    <string name="checkbox_4a">A. 20</string>
+    <string name="checkbox_4b">B. 21</string>
+    <string name="checkbox_4c">C. 25</string>
+    <string name="checkbox_4d">D. 35</string>
+    <string name="question_5">5. Which port number is used by HTTPS?</string>
+    <string name="button_text">Submit</string>
+    <string name="question_5_hint">Enter a port number</string>
+    <string name="question_5_answer">443</string>
+    <string name="radio1_button_A">A. 20</string>
+    <string name="radio1_button_B">B. 25</string>
+    <string name="radio1_button_C">C. 53</string>
+    <string name="radio1_button_D">D. 156</string>
+    <string name="radio2_button_A">A. 23</string>
+    <string name="radio2_button_B">B. 29</string>
+    <string name="radio2_button_C">C. 70</string>
+    <string name="radio2_button_D">D. 90</string>
+    <string name="radio3_button_A">A. FTP</string>
+    <string name="radio3_button_B">B. SSH</string>
+    <string name="radio3_button_C">C. HTTP</string>
+    <string name="radio3_button_D">D. LDAP</string>
+</resources>
